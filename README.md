@@ -1,5 +1,5 @@
 # Simple-Retro-Hugo-theme
-A Hugo theme I made for use on my own website. It's super simple (no js) and looks kinda retro.
+A Hugo theme I made for use on my own website. It's super simple (no js) and looks kinda like the "classic" web.
 
 Features:
 - Super light weight
